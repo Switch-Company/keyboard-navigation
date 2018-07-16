@@ -4,7 +4,7 @@
   "description": "Detect and add a class when the keyboard is used, removes it on click or mouse move.",
   "main": "dist/keyboard-navigation.js",
   "module": "lib/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "lib": "lib"
   },

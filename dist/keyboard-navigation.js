@@ -1,6 +1,6 @@
 /**
  * @switch-company/keyboard-navigation - Detect and add a class when the keyboard is used, removes it on click or mouse move.
- * @version v1.0.0
+ * @version v1.0.1
  * @link undefined
  * @license undefined
  **/
